@@ -13,7 +13,7 @@ KoAlpaca를 사용하여 특정 도메인에 관한 전문적 지식이 요구�
 <br>
 
 ## 3. 구성도
-
+![2023포스터_05_응답하라챗봇_01085230874](https://github.com/pnucse-capstone/capstone-2023-1-05/assets/56316503/a01e4655-029a-4d18-a471-325cbb26ac4d)
 
 <br>
 
