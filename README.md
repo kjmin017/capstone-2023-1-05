@@ -31,5 +31,3 @@ https://github.com/pnucse-capstone/capstone-2023-1-05/assets/56316503/3efd88f2-d
 2. text칸 밑의 Clear칸을 클릭하면 내용을 지울 수 있다.
 3. text칸 밑의 Submit칸을 클릭하면 질문이 제출된다.
 4. 질문에 대한 답변이 Output칸에 입력된다.
-<br>
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/fnZ3vxy8)
