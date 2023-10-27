@@ -10,7 +10,7 @@ KoAlpaca를 사용하여 특정 도메인에 관한 전문적 지식이 요구�
 |------|---|---|
 |정보컴퓨터공학과 201624597|정보컴퓨터공학과 201824448|불어불문학과 201902163|
 |•키프리스 데이터셋 크롤링 및 전처리|•지식인 자연어 처리 모델 생성<br>•Web 구현|•지식인 데이터셋 크롤링|
-|choi4th4570@pusan.ac.kr|kjmin017@gmail.com||
+|choi4th4570@pusan.ac.kr|kjmin017@gmail.com|bbubbune@naver.com|
 
 <br>
 
