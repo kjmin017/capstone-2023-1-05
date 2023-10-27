@@ -20,7 +20,7 @@ KoAlpaca를 사용하여 특정 도메인에 관한 전문적 지식이 요구�
 <br>
 
 ## 4. 소개 및 시연영상
-![2023년 전기 졸업과제 05 응답하라 챗봇](http://img.youtube.com/vi/4sXLycFSg6g/0.jpg)(https://www.youtube.com/watch?v=4sXLycFSg6g)
+[![2023년 전기 졸업과제 05 응답하라 챗봇](http://img.youtube.com/vi/4sXLycFSg6g/0.jpg)](https://www.youtube.com/watch?v=4sXLycFSg6g)
 
 
 <br>
